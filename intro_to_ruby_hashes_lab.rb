@@ -77,7 +77,7 @@ def monopoly_with_fourth_tier
 end
 
 def actor
-  new = {}
+  new = {:name => "Dwayne The Rock Johnson"}
 end
 
 
