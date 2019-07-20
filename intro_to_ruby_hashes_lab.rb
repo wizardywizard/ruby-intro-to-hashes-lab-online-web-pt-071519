@@ -80,7 +80,9 @@ def actor
   new = {:name => "Dwayne The Rock Johnson"}
 end
 
-
+def new_hash
+  hi = {}
+end
 
 
 
